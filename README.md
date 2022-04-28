@@ -5,7 +5,7 @@
 
 - 🌱 I’m constantly learning more and more of the **Unity Engine**
 
-- 👨‍💻 All of my projects are available at [link](https://francomodesto.github.io/my_portfolio/)
+- 👨‍💻 All of my projects are available at [link](https://francomodesto.github.io/my_portfolio)
 
 - 📫 How to reach me: **franco.modesto@hotmail.com**
 
