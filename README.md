@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **"Glow Project"**
 
-- 🌱 I’m currently learning more and more of the **Unity Engine**
+- 🌱 I’m constantly learning more and more of the **Unity Engine**
 
 - 👨‍💻 All of my projects are available at [link](link)
 
