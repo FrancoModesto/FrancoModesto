@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Franco</h1>
 <h3 align="center">A passionate & creative Unity Developer from Buenos Aires, Argentina</h3>
 
-- 🔭 I’m currently working on **"Glow Project"**
+- 🌱 I’m currently learning more and more about the **Frontend Development**
 
-- 🌱 I’m currently learning more and more of the **Unity Engine**
-
-- 👨‍💻 All of my projects are available at: EN PROCESO
+- 👨‍💻 All of my projects are available at: ---
 
 - 📫 How to reach me: **franco.modesto@hotmail.com**
 
